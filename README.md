@@ -1,3 +1,4 @@
 # spark-foundation
 
-https://sanjeevdon.github.io/spark-foundation/index.html
+
+https://sanjeevdon.github.io/spark-foundation/
